@@ -17,3 +17,5 @@
 * Kamat kalkulálás úgy mintha egy profi lennél
 
 * Legújabb verzió: 2.0
+
+ManusApps © 2022 by BalazsManus is licensed under CC BY-NC-ND 4.0
