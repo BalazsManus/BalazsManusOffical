@@ -18,4 +18,10 @@
 
 * Legújabb verzió: 2.0
 
+### [ManusLAG](https://github.com/BalazsManus/manusapps/releases/tag/ManusLag%2FV5_1)
+
+* Tisztítja a gépet
+
+* Legújabb verzió: V5_1
+
 ManusApps © 2022 by BalazsManus is licensed under CC BY-NC-ND 4.0
