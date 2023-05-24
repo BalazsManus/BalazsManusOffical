@@ -24,5 +24,11 @@
 
 * Legújabb verzió: V5_1
 
+### [ManusDNS (only HUN)](https://github.com/BalazsManus/BalazsManusOffical/releases/tag/ManusDNS%2F2023.03.28)
+
+* Gyorsítsd fel az interneted a magyarországi és nemzetközi dns-ek megnézésével
+
+* Legújabb verzió: 2023.03.28
+
 ManusApps © 2023 by BalazsManus is licensed under CC BY-NC-ND 4.0
 Darkika1Buzi© BalazsManus' epic license
