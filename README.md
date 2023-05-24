@@ -1,27 +1,28 @@
-# ManusApps
+# BalazsManus
 
-## Github Repoja :D
+## Offical Github Repository
 
-```Általában ide csak az oldalak lesznek feltöltve, semmi kód! Úgyhogy kódot ne is keress, mert az alkalmazások nem nyílt forráskódúak!!!```
+```Only apps and other things will be uploaded there. The apps I upload are not open source.```
 
-## Soksok információt megtalálhatsz a [wikin](https://github.com/BalazsManus/manusapps/wiki)!
+## You can find many things on the [wiki](https://github.com/BalazsManus/manusapps/wiki)!
 
-* [Saját pontozási rendszer :o](https://github.com/BalazsManus/manusapps/wiki/ManusPoints%E2%84%A2)
+* [Custom point system (beta)](https://github.com/BalazsManus/manusapps/wiki/ManusPoints%E2%84%A2)
 
-* [Átlátható adatkezelés!](https://github.com/BalazsManus/manusapps/wiki/Adatkezel%C3%A9si-%C3%9Atmutat%C3%B3)
+* [Transparent data management](https://github.com/BalazsManus/manusapps/wiki/Adatkezel%C3%A9si-%C3%9Atmutat%C3%B3)
 
-## Alkalmazásaim listája
+## Applist
 
-### [Manus Kamat Kalkulátor](https://github.com/BalazsManus/manusapps/releases/tag/ManusKamat%2F2.0)
+### [Manus Kamat kalkulátor (only HUN)](https://github.com/BalazsManus/manusapps/releases/tag/ManusKamat%2F2.0)
 
 * Kamat kalkulálás úgy mintha egy profi lennél
 
 * Legújabb verzió: 2.0
 
-### [ManusLAG](https://github.com/BalazsManus/manusapps/releases/tag/ManusLag%2FV5_1)
+### [ManusLAG (only HUN)(Not maintained)](https://github.com/BalazsManus/manusapps/releases/tag/ManusLag%2FV5_1)
 
 * Tisztítja a gépet
 
 * Legújabb verzió: V5_1
 
-ManusApps © 2022 by BalazsManus is licensed under CC BY-NC-ND 4.0
+ManusApps © 2023 by BalazsManus is licensed under CC BY-NC-ND 4.0
+Darkika1Buzi© BalazsManus' epic license
