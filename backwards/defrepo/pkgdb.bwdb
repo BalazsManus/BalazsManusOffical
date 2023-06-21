@@ -1,4 +1,4 @@
 pkg1 | 100GB | Description
-_pkg1 https://raw.githubusercontent.com/BalazsManus/BalazsManusOffical/main/license.md
+_pkg1 https://raw.githubusercontent.com/BalazsManus/BalazsManusOffical/main/backwards/tests/pkg1.test.ini
 pkg2 | 20MB | Description
 _pkg2 https://raw.githubusercontent.com/BalazsManus/BalazsManusOffical/main/license.md
