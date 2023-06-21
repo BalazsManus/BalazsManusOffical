@@ -1,4 +1,4 @@
 pkg1 | 100GB | Description
-_pkg1 (https://downloadlink.example)
+_pkg1 https://downloadlink.example
 pkg2 | 20MB | Description
-_pkg2 (https://otherdownload.example)
+_pkg2 https://otherdownload.example
