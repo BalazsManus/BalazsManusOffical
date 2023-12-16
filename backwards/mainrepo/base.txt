@@ -7,12 +7,14 @@
     <index>
         <app id="test">
             <name>Test</name>
+            <describe>A test package</describe>
             <version>1.0</version>
             <sum>0</sum>
             <url>https://backwards.balazsmanus.hu/test</url>
         </app>
         <app id="test2">
             <name>Test 2</name>
+            <describe>Test package, but better</describe>
             <version>1.0</version>
             <sum>0</sum>
             <url>https://backwards.balazsmanus.hu/test2</url>
