@@ -1,1 +1,2 @@
 https://backwards.balazsmanus.hu/mainrepo
+https://raw.githubusercontent.com/BalazsManus/BalazsManusOffical/main/backwards/defrepo/base.txt
