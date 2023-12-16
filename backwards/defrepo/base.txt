@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <repo>
     <url>https://backwards.balazsmanus.hu/mainrepo</url>
-    <name>Backwards Main Repository</name>
+    <name>Backwards Default Repository</name>
     <version>1.0</version>
-    <id>backwards_main</id>
+    <id>backwards_def</id>
     <index>
         <app id="test3">
             <name>Test 3</name>
