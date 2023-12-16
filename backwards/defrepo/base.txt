@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<repo>
+    <url>https://backwards.balazsmanus.hu/mainrepo</url>
+    <name>Backwards Main Repository</name>
+    <version>1.0</version>
+    <id>backwards_main</id>
+    <index>
+        <app id="test3">
+            <name>Test 3</name>
+            <describe>Coolest test</describe>
+            <version>1.0</version>
+            <sum>0</sum>
+            <url>https://backwards.balazsmanus.hu/test</url>
+        </app>
+        <app id="test4">
+            <name>Test 4</name>
+            <describe>idk what now</describe>
+            <version>1.0</version>
+            <sum>0</sum>
+            <url>https://backwards.balazsmanus.hu/test2</url>
+        </app>
+    </index>
+</repo>
