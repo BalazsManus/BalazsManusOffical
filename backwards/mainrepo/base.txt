@@ -1,11 +1,20 @@
-hello sir
-how are you today?
-im fine
-
-
-
-
-thats good
-
-
-hope u like whitespace
+<?xml version="1.0" encoding="utf-8"?>
+<repo>
+    <url>https://backwards.balazsmanus.hu/mainrepo</url>
+    <name>Backwards Main Repository</name>
+    <version>1.0</version>
+    <index>
+        <app id="test">
+            <name>Test</name>
+            <version>1.0</version>
+            <sum>0</sum>
+            <url>https://backwards.balazsmanus.hu/test</url>
+        </app>
+        <app id="test2">
+            <name>Test 2</name>
+            <version>1.0</version>
+            <sum>0</sum>
+            <url>https://backwards.balazsmanus.hu/test2</url>
+        </app>
+    </index>
+</repo>
