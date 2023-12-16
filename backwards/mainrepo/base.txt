@@ -3,6 +3,7 @@
     <url>https://backwards.balazsmanus.hu/mainrepo</url>
     <name>Backwards Main Repository</name>
     <version>1.0</version>
+    <id>backwards_main</id>
     <index>
         <app id="test">
             <name>Test</name>
